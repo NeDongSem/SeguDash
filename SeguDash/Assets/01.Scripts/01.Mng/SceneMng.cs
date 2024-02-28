@@ -10,6 +10,7 @@ public enum SceneType
     NoteMaking,
     Loading,
     Story,
+    Tutorial,
     Game,
     EndingCredit,
     SceneType_End
